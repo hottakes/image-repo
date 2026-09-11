@@ -1,6 +1,6 @@
 # iGaming operator logo sources
 
-41 operators, two variants each:
+Initial batch: 41 operators, two variants each:
 
 - `sportsbooks/icons/<slug>.png` — 1024×1024 opaque square icon (brand-colored background, centered mark).
 - `sportsbooks/logos/<slug>.png` — 1024×1024 transparent logo (centered, full safe-area).
@@ -57,3 +57,13 @@ Assets were assembled from official brand sources where available (operator site
 - **PlayBracco** (bracco) and **Casino Spree** (spree) replace wrong-company logos that brand directories returned for those names.
 - **Funrize** and **Lavish Luck** were only available at small source resolutions; a vector from the operator would be preferable for hi-DPI.
 - White-only wordmark logos (**casino-time**, **lucky-days**, **northstar**) are intended for dark backgrounds.
+
+
+## DAZN BET (2026-09-11)
+
+- Added `sportsbooks/icons/dazn-bet.png` for the shared operator brand catalogue.
+- Official source: [DAZN Bet: Sports & Casino on the Apple App Store](https://apps.apple.com/gb/app/dazn-bet-sports-casino/id1672192705), published by DZBT Limited.
+- [Original 1024px artwork](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e9/9d/3b/e99d3bfd-bbce-fed7-2fef-c536081932d8/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/1024x1024bb.png); visually cross-checked against the [official operator site icon](https://www.daznbet.com/assets/favicons/apple-touch-icon.png).
+- Format: 1024 x 1024 PNG, opaque sRGB, solid black canvas, square corners, original centered white/yellow DAZN BET mark. Mark bounds are 738 x 360 at +143+332, giving a 72% horizontal safe area.
+- Prepared in complete-icon mode, retaining the official artwork without redrawing or stretching. Visually checked at 32, 48, 64, 128, and 256 pixels. This addition supplies the opaque icon only.
+- Tracking: https://github.com/hottakes/workflow-and-wiki/issues/2000
