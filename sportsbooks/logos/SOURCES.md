@@ -67,3 +67,13 @@ Assets were assembled from official brand sources where available (operator site
 - Format: 1024 x 1024 PNG, opaque sRGB, solid black canvas, square corners, original centered white/yellow DAZN BET mark. Mark bounds are 738 x 360 at +143+332, giving a 72% horizontal safe area.
 - Prepared in complete-icon mode, retaining the official artwork without redrawing or stretching. Visually checked at 32, 48, 64, 128, and 256 pixels. This addition supplies the opaque icon only.
 - Tracking: https://github.com/hottakes/workflow-and-wiki/issues/2000
+
+
+## Hard Rock Bet Casino (2026-09-24)
+
+- Added `sportsbooks/icons/hard-rock-bet.png` for the shared operator-brand catalogue and volume-raffle configuration. Existing `hardrock.png` remains unchanged; it is a legacy 76 x 82 image.
+- Official source: [Hard Rock Bet Casino on the Canadian Apple App Store](https://apps.apple.com/ca/app/hard-rock-bet-casino/id6753178980), published by Seminole Hard Rock Digital, LLC.; listing links to https://hardrockbet.ca/.
+- [Original 1024px artwork](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/c8/0a/b4c80a07-7e7d-60fe-ed6c-fe66eb31bbf5/CasinoCAAppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1024x1024bb.png). Preserved the original complete app icon without redrawing, resizing, or stretching.
+- Format: 1024 x 1024 PNG, opaque sRGB, square corners, white Hard Rock BET / CASINO mark on its official magenta background. Visually inspected; no clipped mark or transparent canvas.
+- SHA-256: `909e3df30013a455ed7bb1b161cee2c32ac8cf77f96b89bae0820d919befb96e`.
+- Tracking: https://github.com/hottakes/workflow-and-wiki/issues/2527
