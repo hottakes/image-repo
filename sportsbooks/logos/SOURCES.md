@@ -77,3 +77,13 @@ Assets were assembled from official brand sources where available (operator site
 - Format: 1024 x 1024 PNG, opaque sRGB, square corners, white Hard Rock BET / CASINO mark on its official magenta background. Visually inspected; no clipped mark or transparent canvas.
 - SHA-256: `909e3df30013a455ed7bb1b161cee2c32ac8cf77f96b89bae0820d919befb96e`.
 - Tracking: https://github.com/hottakes/workflow-and-wiki/issues/2527
+
+
+## theScore Bet (2026-10-21)
+
+- Added `sportsbooks/icons/thescore-bet.png` for the shared operator-brand catalogue (ht-business operator brand `TheScore`, used for its sportsbook and casino links).
+- Official source: [theScore Bet: Sports Betting on the Canadian Apple App Store](https://apps.apple.com/ca/app/thescore-bet-sports-betting/id1465992052), published by Score Media and Gaming Inc.; listing links to https://www.thescore.bet.
+- [Original 1024px artwork](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/20/4c/35204cee-db2d-8c06-1a23-fb7eb5c6265f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/1024x1024bb.png). Preserved the complete app icon without redrawing, resizing, or stretching; only metadata was stripped (pixel-identical to the source).
+- Format: 1024 x 1024 PNG, opaque sRGB, square corners, white theScore "S" mark on its official blue-to-black gradient with the yellow BET band. Visually checked at 32, 48, 64, 128, and 256 pixels; no clipped mark or transparent canvas.
+- SHA-256: `01eb0db784e916ba3fc2d908974bbc40c7895bee4baf35948e2de3ecf4eae8f7`.
+- Tracking: https://github.com/hottakes/workflow-and-wiki/issues/3405
